@@ -8,4 +8,5 @@ console.log('Conflicting code from myBranch')
 console.log('Conflicting code from bugFix')
 
 console.log('New Branch 1');
+console.log('14May 1.1')
 console.log('14May 1.2')
